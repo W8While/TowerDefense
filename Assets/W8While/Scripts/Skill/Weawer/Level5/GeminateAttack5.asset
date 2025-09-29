@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 496a242eeb22b164d907261dcd50d8e9, type: 3}
+  m_Name: GeminateAttack5
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 1514645615, guid: 6b5879b4f8484574ea87e78c6089c1bd, type: 3}
+  _description: "\u0432\u0435\u0448\u0430\u0435\u0442 \u0436\u0443\u0447\u043A\u04305"
+  _skillScript: GeminateAttack4
+  isAvailible: 0
+  _cost: 520
+  _level: 5
+  _coolDawn: 2
+  _timeSecondAttack: 0.2
+  _bug: {fileID: 8390785030945888294, guid: 31ecbe2a1041ed848a499132cd1b1460, type: 3}
+  _bugSpeedReduse: 10
+  _bugDamage: 20
+  _bugAttackSpeed: 340

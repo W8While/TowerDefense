@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2847e976d3fd14349881c0db3ebe46c6, type: 3}
+  m_Name: ArctickBurn4
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: -1808178399, guid: c107f885b81ee304f9cfd538b800d16f, type: 3}
+  _description: "\u0430\u0440\u043A\u0442\u0438\u043A \u0431\u0435\u0440\u043D 4
+    - \u043F\u0435\u0440\u0432\u0430\u044F \u0442\u044B\u0447\u043A\u0430 - 80% \u0445\u043F
+    \u0435\u043D\u0435\u043C\u0438 \u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442
+    \u0438 \u043C\u0435\u043D\u044F\u0435\u0442 \u0442\u0430\u0440\u0433\u0435\u0442
+    ZZZ"
+  _skillScript: ArctickBurn4
+  isAvailible: 0
+  _cost: 600
+  _level: 4
+  _procenteDamageBuff: 1.1
+  _underEnemyProcentlyHealth: 85

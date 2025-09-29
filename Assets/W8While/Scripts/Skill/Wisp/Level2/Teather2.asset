@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97e68caff169a347bc9187e877ec0f2, type: 3}
+  m_Name: Teather2
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 1636552320, guid: 6a8d0d6e86a96b34eb536bd6863a8ca4, type: 3}
+  _description: "\u0412\u0415\u0428\u0410\u0415\u0422 \u041D\u0410 \u041A\u0415\u041D\u0422\u041E\u0412
+    \u0411\u0410\u0424\u0424 \u0410\u0422\u0410\u041A \u0421\u041F\u0418\u0414 \u0418
+    \u0423\u0420\u041E\u041D"
+  _skillScript: Tether
+  isAvailible: 0
+  _cost: 40
+  _level: 2
+  _maxTowersWithBuff: 3
+  _attackSpeedBuff: 30
+  _damageBuff: 10
+  _tetherEffect: {fileID: 3738235352885605801, guid: 0801a8f80dd2377468c9716e38e9de72, type: 3}

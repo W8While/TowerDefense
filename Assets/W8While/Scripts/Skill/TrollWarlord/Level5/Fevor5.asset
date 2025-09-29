@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee6e96aa8298ef143a17f9683836da9f, type: 3}
+  m_Name: Fevor5
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: -315585135, guid: dae9ea2773218ef4088c7c3f5ccf46f3, type: 3}
+  _description: "\u0417\u0410 \u0412\u0410\u0420\u0414\u041E \u0418 \u0420\u041E\u0421\u0421\u0418\u042E"
+  _skillScript: Fevor4
+  isAvailible: 0
+  _cost: 400
+  _level: 5
+  _attackSpeedBuff: 100
+  _stopTimeDuraction: 3
+  _stopTimeCoolDawn: 9

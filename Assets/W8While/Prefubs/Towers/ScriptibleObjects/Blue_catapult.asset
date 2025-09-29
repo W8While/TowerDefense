@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d9cd2c2cf237be45962017ef9b0a2f3, type: 3}
+  m_Name: Blue_catapult
+  m_EditorClassIdentifier: 
+  _prebuf: {fileID: 7291457770332782243, guid: 914c8de627ea57e4d824cfda6ebffa94, type: 3}
+  _previerPrebuf: {fileID: 4452932513611314530, guid: ce6be6670e4b1894d94aa8fb8fcd00bb, type: 3}
+  _sprite: {fileID: -1610684255, guid: afdcfd15d50cb434c92d2a016063adca, type: 3}
+  _fireBallPrefub: {fileID: 2898332804870569006, guid: d72940486f5fda443806479dbe45ceb8, type: 3}
+  _damage: 14
+  _attackRange: 12
+  _attackSpeed: 65
+  _cost: 14
+  _name: VOVAN
+  firstSkill: {fileID: 0}
+  secondSkill: {fileID: 0}
+  _levelUpDamageBuff: 2
+  _levelUpAttackSpeedBuff: 7

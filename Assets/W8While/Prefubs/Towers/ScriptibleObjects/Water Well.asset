@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d9cd2c2cf237be45962017ef9b0a2f3, type: 3}
+  m_Name: Water Well
+  m_EditorClassIdentifier: 
+  _prebuf: {fileID: 4712405012200308820, guid: b99843d944f55d24fa538fe8e60e1c35, type: 3}
+  _previerPrebuf: {fileID: 5484252679035980598, guid: 2144f8757150d0d489aeda854e51669e, type: 3}
+  _sprite: {fileID: 963075139, guid: b383e05b451747a46b48bd851e10eabb, type: 3}
+  _fireBallPrefub: {fileID: 2898332804870569006, guid: d72940486f5fda443806479dbe45ceb8, type: 3}
+  _damage: 10
+  _attackRange: 10
+  _attackSpeed: 75
+  _cost: 10
+  _name: gvozDICK
+  firstSkill: {fileID: 0}
+  secondSkill: {fileID: 0}
+  _levelUpDamageBuff: 3
+  _levelUpAttackSpeedBuff: 2
